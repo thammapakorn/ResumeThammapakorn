@@ -1,0 +1,45 @@
+[
+    {
+      "role": "IT Support Associate",
+      "organisation": "BITKUB ONLINE Company Limited",
+      "startDate": "April 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Provide end-user and problem resolution for hardware and software applications.",
+        "Installing and configuring computer hardware, software, systems, networks, printers and scanners.",
+        "Planning and undertaking scheduled maintenance upgrades",
+        "Investigating, diagnosing and solving computer software and hardware faults",
+        "Repairing equipment and replacing parts",
+        "Checking computer equipment for electrical safety",
+        "Maintaining records of software licenses, computers and hardware",
+        "Managing stocks of equipment and asset tag, consumables and other supplies",
+        "Being responsible for any task assigned by manager"
+    ],
+      "imageSrc": "history/bitkub.png"
+    },
+    {
+      "role": "IT System Engineer",
+      "organisation": "Jubilee Enterprise Public Company Limited",
+      "startDate": "February 2022",
+      "endDate": "March 2023",
+      "experiences": [
+           "Create Web intranet",
+           "Create Leave management system",
+           "Maintain internet system and CCTV for branches"
+        ],
+      "imageSrc": "history/jubilee.png"
+    },
+    {
+      "role": "IT Support",
+      "organisation": "M.T.R Asset Manager Company Limited",
+      "startDate": "July 2020",
+      "endDate": "January 2022",
+      "experiences": [
+        "Provide IT consultations for users",
+        "Assist the IT Director in all matters as required",
+        "Install and configure software and computer systems",
+        "Backup Data Management Tools"
+      ],
+      "imageSrc": "history/mtr.png"
+    }
+]
