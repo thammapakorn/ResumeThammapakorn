@@ -1,23 +1,23 @@
 [
     {
-      "title": "Project Resume Profile",
+      "title": "Resume Profile",
       "imageSrc": "projects/project.png",
       "description": "This is project made for introduce myself and learn how to create web app.",
       "skills": ["React", "Express", "Node","CSS"],
       "source": "https://www.github.com"
     },
     {
-      "title": "Project CRUD",
+      "title": "CRUD with Node.js",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn how to use function CRUD with MongoDB.",
       "skills": ["React", "Express", "Node", "MongoDB"],
       "source": "https://github.com/thammapakorn/CRUD"
     },
     {
-      "title": "Project ----",
+      "title": "Web app with Nuxt.js",
       "imageSrc": "projects/project.png",
-      "description": "------------------------------------------------------------------------",
-      "skills": ["React", "Express", "Node"],
-      "source": "https://github.com/thammapakorn/Resume"
+      "description": "This is project made for learn how to create web app with Nuxt.JS and CSS",
+      "skills": ["Nuxt", "Node", "CSS"],
+      "source": "https://github.com/thammapakorn/nuxt-basic"
     }
   ]
