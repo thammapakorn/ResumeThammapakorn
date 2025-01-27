@@ -17,7 +17,7 @@
       "title": "Web app with Nuxt.js",
       "imageSrc": "projects/project.png",
       "description": "This is project made for learn how to create web app with Nuxt.JS and CSS",
-      "skills": ["Nuxt", "Node", "CSS"],
+      "skills": ["HTML5", "Vue.js 3.x", "CSS", "JavaScript"],
       "source": "https://github.com/thammapakorn/nuxt-basic"
     }
   ]
